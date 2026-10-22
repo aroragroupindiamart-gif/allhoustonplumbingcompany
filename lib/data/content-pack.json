@@ -1,55 +1,71 @@
 {
   "intro": [
-    "When you need {kw} in {cityName}, you need a trusted professional who responds fast. Our licensed {nichePluralLower} are ready 24 hours a day, 7 days a week.",
-    "{cityName} residents rely on {brandName} for dependable {kw}. Our certified {nichePluralLower} serve the entire {cityName} area with same-day service available.",
-    "Don't let a {nicheLower} problem disrupt your life. Our {cityName} {kw} specialists have the tools and experience to resolve any issue quickly — the first time.",
-    "For {kw} in {cityName}, our team of licensed, insured {nichePluralLower} brings years of hands-on experience and guaranteed workmanship to every job."
+    "When major plumbing breakdowns threaten your property in {cityName}, {brandName} deploys heavy-duty emergency units immediately.",
+    "Commanding an extensive commercial and residential fleet, {brandName} delivers decisive {kw} across {cityName} 24 hours a day.",
+    "Rapid intervention is essential during sewer backups and high-pressure ruptures—rely on {brandName} for immediate {kw} in {cityName}.",
+    "Our emergency response division is engineered to handle severe {kw} challenges for {cityName} homes and commercial facilities.",
+    "Critical plumbing emergencies require industrial-grade resources—count on {brandName} for prompt, authoritative action in {cityName}.",
+    "Restoring safety and plumbing functionality fast, {brandName} provides full-scale emergency coverage throughout {cityName}."
   ],
   "body1": [
-    "Our {cityName} {nichePluralLower} bring years of hands-on experience in {kw}. Every technician is fully licensed, insured, and background-checked. We use professional-grade equipment to ensure lasting results.",
-    "For {kw} in {cityName}, no job is too big or too small. We handle everything from routine maintenance to complex emergency repairs, always delivering the highest standard of workmanship.",
-    "{brandName} has built a reputation in {cityName} by providing honest, transparent {kw} at fair prices. We give upfront quotes with no hidden fees, and our technicians explain every step before they begin work.",
-    "When it comes to {kw} in {cityName}, our crew arrives on time, respects your property, and cleans up completely before leaving. All work is backed by a written guarantee."
+    "Our centralized dispatch center operates around the clock, deploying specialized response units to contain and resolve severe {kw} incidents across {cityName}.",
+    "Every response truck is outfitted with high-volume hydro-jetters, heavy-capacity submersible pumps, and precision line-tracing transmitters.",
+    "Our technicians possess specialized training in large-diameter drainage recovery, slab leak isolation, and high-pressure water main stabilization.",
+    "We understand the immense financial damage plumbing failures can cause, which is why our teams move rapidly to isolate bursts and salvage your structure.",
+    "All emergency repairs undergo rigorous post-repair hydrostatic testing to verify complete system stabilization before our crew leaves your {cityName} site.",
+    "We work collaboratively with property managers, business owners, and homeowners across {cityName} to deliver decisive mechanical restoration."
   ],
   "body2": [
-    "Whether you're dealing with an urgent situation or planning a scheduled {kw} project in {cityName}, we make the process easy. Call us any time, day or night.",
-    "Our {kw} services in {cityName} are backed by a workmanship warranty. We stand behind every job, ensuring you have peace of mind long after our technicians leave.",
-    "When you choose {brandName} for {kw} in {cityName}, you're choosing a team that treats your property like their own. We clean up after every job and minimize disruption.",
-    "{cityName} residents trust us for {kw} because we show up on time, price jobs fairly, and never cut corners. Call {phoneNumber} to schedule service."
+    "From midnight storm-induced backups to critical daytime main collapses, our {cityName} fleet is perpetually primed for immediate deployment.",
+    "Every emergency service executed by {brandName} is backed by our full warranty coverage, comprehensive compliance documentation, and clear invoicing.",
+    "We maintain direct radio and digital links with all field units, providing clients with precise arrival telemetry and real-time status briefings.",
+    "Our upfront pricing schedule ensures full cost transparency, even in high-stress emergency scenarios, protecting you from unexpected charges.",
+    "Take immediate control of your plumbing crisis—contact our 24/7 command center at {phoneNumber} for rapid dispatch in {cityName}.",
+    "Trust {brandName} to deliver the industrial power, tactical speed, and certified mastery necessary to resolve any plumbing emergency in {cityName}."
   ],
   "trustBulletSets": [
     [
-      "Fully licensed and insured {kw} technicians",
-      "24/7 emergency response — no extra charge for nights or weekends",
-      "Upfront, transparent pricing — no hidden fees",
-      "All work backed by our workmanship guarantee",
-      "Locally trusted in {cityName}"
+      "24/7 Centralized Emergency Dispatch",
+      "Heavy-Duty Hydro-Jetting Units",
+      "Commercial & Residential Capability",
+      "Slab Leak & Main Line Specialists",
+      "Upfront Flat-Rate Emergency Pricing"
     ],
     [
-      "Same-day {kw} service available in {cityName}",
-      "Background-checked technicians — safe for your home and family",
-      "Free estimates on major jobs",
-      "We use only quality, code-compliant materials",
-      "Eco-friendly options available upon request"
+      "Industrial Pumping & Extraction",
+      "Rapid Field Response Across {cityName}",
+      "Fully Licensed Master Mechanics",
+      "Complete System Pressure Verification",
+      "Full Property Remediation Focus"
     ],
     [
-      "Rapid response — most jobs dispatched within the hour",
-      "{cityName} residents have trusted us for years",
-      "Expert {kw} diagnosis — right the first time",
-      "Flexible appointment times including evenings and weekends",
-      "Fully equipped for on-the-spot repairs"
+      "Direct Dispatcher Telemetry",
+      "Zero Unannounced Overtime Rates",
+      "Heavy Equipment On Standby",
+      "Comprehensive Building Code Compliance",
+      "Written Workmanship Guarantees"
+    ],
+    [
+      "High-Volume Emergency Fleet",
+      "Experienced Disaster Containment",
+      "Full Digital Incident Reports",
+      "Immediate Phone Response 24/7",
+      "Call Dispatch Directly at {phoneNumber}"
     ]
   ],
   "faqCostAnswers": [
-    "The cost of {kw0} in {cityName} varies based on the scope of work. We provide free estimates on all major jobs and upfront quotes before any work begins. Call {phoneNumber} for a quote.",
-    "Pricing for {kw0} in {cityName} depends on factors like the severity and access required. We offer competitive, transparent pricing. Call us at {phoneNumber} for an accurate estimate."
+    "Our emergency dispatch team provides clear, binding flat-rate estimates for {kw0} in {cityName} prior to mobilizing tools on-site. Call {phoneNumber} for immediate rate verification.",
+    "We believe in straightforward, transparent pricing without hidden emergency surcharges for {kw0} in {cityName}. Contact our operations desk at {phoneNumber}.",
+    "Accurate, code-compliant quotes for all residential and commercial {kw0} projects in {cityName}. Dial {phoneNumber} to consult our dispatch team."
   ],
   "faqArrivalAnswers": [
-    "For emergency {kw1} calls in {cityName}, we typically dispatch a technician within 30–60 minutes. For scheduled appointments, we offer same-day and next-day availability.",
-    "Our {cityName} {nichePluralLower} are strategically located for fast response. Emergency calls are typically answered within the hour."
+    "Our rapid-response emergency vehicles are staged throughout {cityName} to achieve typical arrival times under 45 minutes for critical incidents.",
+    "Scheduled maintenance and non-emergency appointments feature punctual 2-hour arrival windows with advance driver notifications.",
+    "Our command desk operates 24/7/365, guaranteeing immediate phone answering and priority dispatch across the greater {cityName} area."
   ],
   "faqBeforeArrivalAnswers": [
-    "For most service calls, just ensure the technician can access the work area. If there is an active problem, try to isolate it to minimize damage. Our dispatcher can walk you through any emergency steps.",
-    "Clear the work area so our technician has room to work safely. Our dispatcher can walk you through any emergency steps when you call {phoneNumber}."
+    "Locate your property's main water shutoff and close the valve immediately if water is escaping uncontrollably, or ask our phone dispatcher for guidance.",
+    "Keep driveways and exterior entry doors clear so our heavy-duty service vehicles and mobile machinery can stage close to your building.",
+    "Secure all pets and clear belongings away from the suspected leak or backup source to accelerate diagnostic access."
   ]
 }
