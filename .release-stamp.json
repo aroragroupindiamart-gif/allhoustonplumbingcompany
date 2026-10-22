@@ -1,5 +1,5 @@
 {
   "version": "route3-v3.3",
-  "deployedAt": "2026-10-22T11:08:33.562Z",
+  "deployedAt": "2026-10-22T11:10:17.416Z",
   "commitMessage": "Remove sample reviews, add missing hub 308s, delete orphan sub-sitemaps, fix client hydration error boundary"
 }
